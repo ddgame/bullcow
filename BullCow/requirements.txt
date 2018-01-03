@@ -1,0 +1,11 @@
+input: text
+output:
+	text (hint about bull & cow)
+	how many guesses
+tasks:
+	input guess
+
+possible future to do:
+	feedback on every feedback
+	large dictionary of hidden words
+	difficulty levels
